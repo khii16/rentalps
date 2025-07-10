@@ -12,9 +12,9 @@
     "buildCommand": "vite build",
     "outputDirectory": "public",
     "env": {
-        "APP_ENV": "local",
+        "APP_ENV": "production",
         "APP_DEBUG": "false",
-        "APP_URL": "https://rentalps.com",
+        "APP_URL": "https://yourproductionurl.com",
         "APP_KEY": "base64:hcz5wczoxiDd1Fd+98oJzgiMiUsjmzk1pJd/UZkg9LU=",
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
